@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recognimage-dev-201731-authRole",
+      "UnauthRoleArn": "arn:aws:iam::046349254581:role/amplify-recognimage-dev-201731-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::046349254581:role/amplify-recognimage-dev-201731-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-recognimage-dev-201731-deployment",
+      "UnauthRoleName": "amplify-recognimage-dev-201731-unauthRole",
+      "StackName": "amplify-recognimage-dev-201731",
+      "StackId": "arn:aws:cloudformation:us-east-1:046349254581:stack/amplify-recognimage-dev-201731/a3ba1c90-759a-11ed-9776-0a1bb0918c83",
+      "AmplifyAppId": "d2rpqktfhfgob0"
+    }
+  }
+}
